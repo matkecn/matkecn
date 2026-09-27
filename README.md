@@ -1,101 +1,47 @@
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27F5CF,00C2FF,7C5CFF,27F5CF&height=170&section=header&text=%D0%BC%D0%B0%D1%82%D0%B8%D1%98%D0%B0&fontSize=34&fontColor=ffffff&fontAlignY=32&desc=Fullstack%20%C2%B7%20UI%2FUX%20%C2%B7%20Systems&descSize=17&descAlignY=55&animation=fadeIn" alt="матија — Fullstack · UI/UX · Systems" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=27F5CF&center=true&vCenter=true&width=520&lines=%24+whoami;UI%2FUX+Designer;Systems+Engineer;Web-Identities+Crafter" alt="Fullstack developer and UI/UX designer" />
-
-  <br/>
-
-  <a href="https://github.com/matkecn">
-    <img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://">
-    <img src="https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=27F5CF" alt="Portfolio" />
-  </a>
-  <a href="mailto:matija.dev@proton.me">
-    <img src="https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" alt="Email" />
-  </a>
-  <a href="https://instagram.com/matkecn">
-    <img src="https://img.shields.io/badge/Instagram-0B0F14?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram" />
-  </a>
-  <a href="https://github.com/matkecn/matkecn/blob/main/info.md">
-    <img src="https://img.shields.io/badge/About-0B0F14?style=for-the-badge&logo=readme&logoColor=00C2FF" alt="About me" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=matkecn&label=Views&color=27F5CF&style=plastic&logo=github" alt="Profile views" />
-  <img src="https://img.shields.io/badge/macOS-0B0F14?style=plastic&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/Fedora-0B0F14?style=plastic&logo=fedora&logoColor=294172" alt="Fedora" />
-  <img src="https://img.shields.io/badge/Learning%20Swift-27F5CF?style=plastic&logo=swift&logoColor=0B0F14" alt="Learning Swift" />
-  <img src="https://img.shields.io/badge/JetBrains-0B0F14?style=plastic&logo=jetbrains&logoColor=FF318C" alt="JetBrains IDEs" />
-  <img src="https://img.shields.io/badge/VS%20Code-0B0F14?style=plastic&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Xcode-0B0F14?style=plastic&logo=xcode&logoColor=0D96F2" alt="Xcode" />
-
-</div>
-
----
-
-## About
-
-I'm **Matija** — a fullstack developer and UI/UX designer. I build **websites**, **web applications**, **backend systems**, **scripts** and **software tools**.
-
-I care about clean interfaces, solid architecture, and code that holds up under real use — the pixel and the process, both.
-
----
-
-## Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50&height=160&section=header&text=матија&fontSize=30&fontColor=ffffff&fontAlignY=28&desc=%20%20Fullstack%20%C2%B7%20UI%2FUX%20%C2%B7%20Systems&descSize=16&descAlignY=50" />
+</p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,c,cpp,rust,js,ts,swift,lua,nodejs,bootstrap,supabase,react,dart,flutter,mysql,go,docker,vscode,ps,illustrator&perline=10&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,js,ts,swift,lua,nodejs,bootstrap,supabase,react,dart,flutter,mysql,go,docker,vscode,ps,illustrator&perline=10&theme=light" alt="Tech stack" />
-  </picture>
+  <a href="https://"><img src="https://img.shields.io/badge/Portfolio-A1876C?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:matija.dev@proton.me"><img src="https://img.shields.io/badge/Contact-ffffff?style=for-the-badge&logo=protonmail&logoColor=0088cc" /></a>
+  <a href="https://instagram.com/n11kol11c"><img src="https://img.shields.io/badge/Instagram-8F96CC?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/n11kol11c/n11kol11c/blob/main/info.md"><img src="https://img.shields.io/badge/About-A19C9C?style=for-the-badge&logo=info&logoColor=0088cc" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=700&color=27F5CF&center=true&vCenter=true&width=460&lines=%24+whoami;UI%2FUX+Designer;Systems+Engineer;Web-Identities+Crafter" /> <!-- 8FCC90 -->
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tkemza&label=Views&color=0088cc&style=plastic&logo=github" alt="views" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-3c475d?style=plastic&logo=fedora&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Learning-Swift-ff7b3a?style=plastic&logo=swift&logoColor=red" />
+  <img src="https://img.shields.io/badge/Editors-JetbrainsIDEs_%C2%B7_VSCode_%C2%B7_Xcode-7F52FF?style=plastic&logo=jetbrains&logoColor=purple" />
 </p>
 
 ---
 
-## Stats
+### About
+
+I'm a fullstack developer and UI/UX designer who builds **websites**, **web applications**, **backend systems**, **scripts**, and **software tools**. I care about clean interfaces, solid architecture, and code that holds up under real use. Whether it's a polished frontend, a reliable API, or a low-level utility.
+
+<hr>
+
+### Tech Stacks
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=matkecn&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=matkecn&show_icons=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true&bg_color=ffffff" />
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=matkecn&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical&hide_border=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matkecn&theme=radical" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matkecn&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matkecn&theme=radical" alt="Repositories per language" />
-  </picture>
-</p>
-
----
-
-## Let's Connect
-
-<p align="center">
-  <a href="mailto:matija.dev@proton.me">
-    <img src="https://img.shields.io/badge/matija.dev%40proton.me-0B0F14?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" alt="Email" />
-  </a>
-  <a href="https://github.com/matkecn">
-    <img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/matkecn">
-    <img src="https://img.shields.io/badge/Instagram-0B0F14?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <br/><br/>
-  <a href="mailto:matija.dev@proton.me?subject=Project%20inquiry">
-    <img src="https://img.shields.io/badge/Start%20a%20conversation-27F5CF?style=for-the-badge&logo=protonmail&logoColor=0B0F14" alt="Start a conversation" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,js,ts,swift,lua,nodejs,bootstrap,supabase,react,dart,flutter,mysql,go,docker,vscode,ps,illustrator&perline=10&theme=light" />
   </a>
 </p>
 
-<br/>
+<hr>
 
+### Let's Connect
+- 📩 **Contact me via proton mail:** [_`matija.dev@proton.me`_](mailto:matija.dev@proton.me)
+- **Looking for a technical and reliable partner for your next mission-critical project?** [Let’s discuss the architecture.](https://)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27F5CF,00C2FF,7C5CFF,27F5CF&height=100&section=footer&fontSize=15&fontColor=ffffff&fontAlignY=38&text=Thanks%20for%20visiting&animation=fadeIn" alt="Thanks for visiting" />
-</p>
-
-<p align="center">
-  <sub>Looking for a reliable partner for your next mission-critical project? <a href="mailto:matija.dev@proton.me">Let's discuss the architecture.</a></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50&height=100&section=footer" />
 </p>
