@@ -1,12 +1,22 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50&height=160&section=header&text=матија&fontSize=30&fontColor=ffffff&fontAlignY=28&desc=%20%20Fullstack%20%C2%B7%20UI%2FUX%20%C2%B7%20Systems&descSize=16&descAlignY=50" />
 </p>
-
 <p align="center">
-  <a href="https://"><img src="https://img.shields.io/badge/Portfolio-A1876C?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:matija.dev@proton.me"><img src="https://img.shields.io/badge/Contact-ffffff?style=for-the-badge&logo=protonmail&logoColor=0088cc" /></a>
-  <a href="https://instagram.com/n11kol11c"><img src="https://img.shields.io/badge/Instagram-8F96CC?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/n11kol11c/n11kol11c/blob/main/info.md"><img src="https://img.shields.io/badge/About-A19C9C?style=for-the-badge&logo=info&logoColor=0088cc" /></a>
+<a href="https://github.com/matkecn">
+    <img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://">
+    <img src="https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=27F5CF" alt="Portfolio" />
+  </a>
+  <a href="mailto:matija.dev@proton.me">
+    <img src="https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" alt="Email" />
+  </a>
+  <a href="https://instagram.com/matkecn">
+    <img src="https://img.shields.io/badge/Instagram-0B0F14?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram" />
+  </a>
+  <a href="https://github.com/matkecn/matkecn/blob/main/info.md">
+    <img src="https://img.shields.io/badge/About-0B0F14?style=for-the-badge&logo=readme&logoColor=00C2FF" alt="About me" />
+  </a>
 </p>
 
 <p align="center">
