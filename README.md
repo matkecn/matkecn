@@ -11,9 +11,6 @@
   <a href="mailto:matija.dev@proton.me">
     <img src="https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" alt="Email" />
   </a>
-  <a href="https://instagram.com/matkecn">
-    <img src="https://img.shields.io/badge/Instagram-0B0F14?style=for-the-badge&logo=instagram&logoColor=E1306C" alt="Instagram" />
-  </a>
   <a href="https://github.com/matkecn/matkecn/blob/main/info.md">
     <img src="https://img.shields.io/badge/About-0B0F14?style=for-the-badge&logo=readme&logoColor=00C2FF" alt="About me" />
   </a>
