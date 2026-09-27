@@ -5,7 +5,7 @@
 <a href="https://github.com/matkecn">
     <img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://">
+  <a href="https://nmatija.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-0B0F14?style=for-the-badge&logo=googlechrome&logoColor=27F5CF" alt="Portfolio" />
   </a>
   <a href="mailto:matija.dev@proton.me">
