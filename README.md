@@ -34,8 +34,9 @@
 ---
 
 ### About
+I'm **Matija** — a fullstack developer and UI/UX designer. I build **websites**, **web applications**, **backend systems**, **scripts** and **software tools**.
 
-I'm a fullstack developer and UI/UX designer who builds **websites**, **web applications**, **backend systems**, **scripts**, and **software tools**. I care about clean interfaces, solid architecture, and code that holds up under real use. Whether it's a polished frontend, a reliable API, or a low-level utility.
+I care about clean interfaces, solid architecture, and code that holds up under real use — the pixel and the process, both.
 
 <hr>
 
