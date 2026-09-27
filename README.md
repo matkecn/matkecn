@@ -25,10 +25,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tkemza&label=Views&color=0088cc&style=plastic&logo=github" alt="views" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fedora-3c475d?style=plastic&logo=fedora&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Learning-Swift-ff7b3a?style=plastic&logo=swift&logoColor=red" />
-  <img src="https://img.shields.io/badge/Editors-JetbrainsIDEs_%C2%B7_VSCode_%C2%B7_Xcode-7F52FF?style=plastic&logo=jetbrains&logoColor=purple" />
+  <img src="https://img.shields.io/badge/macOS-0B0F14?style=plastic&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Fedora-0B0F14?style=plastic&logo=fedora&logoColor=294172" alt="Fedora" />
+  <img src="https://img.shields.io/badge/Learning%20Swift-27F5CF?style=plastic&logo=swift&logoColor=0B0F14" alt="Learning Swift" />
+  <img src="https://img.shields.io/badge/JetBrains-0B0F14?style=plastic&logo=jetbrains&logoColor=FF318C" alt="JetBrains IDEs" />
+  <img src="https://img.shields.io/badge/VS%20Code-0B0F14?style=plastic&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Xcode-0B0F14?style=plastic&logo=xcode&logoColor=0D96F2" alt="Xcode" />
 </p>
 
 ---
