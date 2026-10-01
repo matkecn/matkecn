@@ -42,7 +42,7 @@ I work primarily in **Python, C and Javascript**, with a growing focus on **Rust
 
 ### Tech Stacks
 - **Languages:** <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,rust,php,js,ts,swift,lua&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,c,rust,php,js,ts,swift,lua,java&perline=11&theme=dark" />
   </a>
 
 - **Frameworks:** <a href="https://skillicons.dev">
@@ -54,7 +54,7 @@ I work primarily in **Python, C and Javascript**, with a growing focus on **Rust
   </a>
 
 - **Tools & Design:** <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,git,cmake,docker,ps,illustrator&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=shell,npm,git,cmake,docker,ps,illustrator&perline=10&theme=dark" />
   </a>
 
 <hr>
