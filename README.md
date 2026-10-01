@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-BD54FF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/matkecn/matkecn/blob/main/info.md">
-    <img src="https://img.shields.io/badge/About-0B0F14?style=for-the-badge&logo=readme&logoColor=00C2FF" alt="About me" />
+    <img src="https://img.shields.io/badge/About-00C2FF?style=for-the-badge&logo=readme&logoColor=white" alt="About me" />
   </a>
 </p>
 
