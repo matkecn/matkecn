@@ -42,11 +42,11 @@ I work primarily in **Python, C and Javascript**, with a growing focus on **Rust
 
 ### Tech Stacks
 - **Languages:** <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,rust,js,ts,swift,lua,dart&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,c,rust,php,js,ts,swift,lua,dart&perline=8&theme=dark" />
   </a>
 
 - **Frameworks:** <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,fastapi,flutter,bootstrap,nodejs&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,fastapi,flutter,bootstrap,nodejs&perline=5&theme=dark" />
   </a>
 
 - **Databases:** <a href="https://skillicons.dev">
