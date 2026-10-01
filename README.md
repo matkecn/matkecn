@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FF7054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:matija.dev@proton.me">
-    <img src="https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-BD54FF?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" alt="Email" />
   </a>
   <a href="https://github.com/matkecn/matkecn/blob/main/info.md">
     <img src="https://img.shields.io/badge/About-0B0F14?style=for-the-badge&logo=readme&logoColor=00C2FF" alt="About me" />
