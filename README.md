@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://nmatija.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF7054?style=for-the-badge&logo=googlechrome&logoColor=27F5CF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF7054?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:matija.dev@proton.me">
     <img src="https://img.shields.io/badge/Email-0B0F14?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" alt="Email" />
