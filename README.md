@@ -49,7 +49,7 @@ I work primarily in **Python, C and Javascript**, with a growing focus on **Rust
   </a>
 
 - **Databases:** <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,supabase,postgresql&perline=4&theme=light" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,postgresql&perline=5&theme=light" />
   </a>
 
 - **Tools & Design:** <a href="https://skillicons.dev">
