@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Fedora-0B0F14?style=plastic&logo=fedora&logoColor=294172" alt="Fedora" />
   <img src="https://img.shields.io/badge/Learning%20Swift-0B0F14?style=plastic&logo=swift&logoColor=F54927" alt="Learning Swift" />
   <img src="https://img.shields.io/badge/JetBrains-0B0F14?style=plastic&logo=jetbrains&logoColor=FF318C" alt="JetBrains IDEs" />
-  <img src="https://img.shields.io/badge/VS%20Code-0B0F14?style=plastic&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
   <img src="https://img.shields.io/badge/Xcode-0B0F14?style=plastic&logo=xcode&logoColor=0D96F2" alt="Xcode" />
 </p>
 
