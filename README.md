@@ -45,6 +45,10 @@ I work primarily in **Python, C and Javascript**, with a growing focus on **Rust
     <img src="https://skillicons.dev/icons?i=py,c,rust,js,ts,swift,lua,dart&perline=8&theme=dark" />
   </a>
 
+- Frameworks: <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,fastapi,flutter,bootstrap,nodejs,supabase&perline=6&theme=dark" />
+  </a>
+
 <hr>
 
 ### Let's Connect
