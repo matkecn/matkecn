@@ -39,7 +39,6 @@ My work sits where **design meets engineering**: a clean interface is only half 
 I work primarily in **Python, C and Javascript**, with a growing focus on **Rust**, **Go** and **Swift**.
 <hr>
 
-## Tech Stacks
 ### **Languages:** 
 <p align="left"><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,rust,php,js,ts,swift,lua,java,dart&perline=11&theme=light" />
