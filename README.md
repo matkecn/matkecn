@@ -41,22 +41,22 @@ I work primarily in **Python, C and Javascript**, with a growing focus on **Rust
 
 ## Tech Stacks
 ### **Languages:** 
-<p align="center"><a href="https://skillicons.dev">
+<p align="left"><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,rust,php,js,ts,swift,lua,java,dart&perline=11&theme=light" />
   </a></p>
 
 ### **Frameworks:** 
-<p align="center"><a href="https://skillicons.dev">
+<p align="left"><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,react,pytorch,fastapi,flutter,bootstrap,nodejs&perline=10&theme=light" />
   </a></p>
 
 ### **Databases:** 
-<p align="center"><a href="https://skillicons.dev">
+<p align="left"><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,postgresql&perline=5&theme=light" />
   </a></p>
 
 ### **Tools & Design:** 
-<p align="center"><a href="https://skillicons.dev">
+<p align="left"><a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,npm,git,cmake,docker,ps,illustrator&perline=10&theme=light" />
   </a></p>
 
