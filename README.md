@@ -50,7 +50,7 @@ I work primarily in **Python, C and Javascript**, with a growing focus on **Rust
   </a>
 
 - **Databases:** <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,supabase,mariadb&perline=4&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=mysql,supabase,postgresql&perline=4&theme=dark" />
   </a>
 
 <hr>
