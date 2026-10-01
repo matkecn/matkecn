@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50&height=160&section=header&text=матија&fontSize=30&fontColor=ffffff&fontAlignY=28&desc=%20%20Fullstack%20%C2%B7%20UI%2FUX%20%C2%B7%20Systems&descSize=16&descAlignY=50" />
 </p>
 <p align="center">
-<a href="https://github.com/matkecn">
+  <a href="https://github.com/matkecn">
     <img src="https://img.shields.io/badge/GitHub-0B0F14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://nmatija.netlify.app">
