@@ -54,7 +54,7 @@ I work primarily in **Python, C and Javascript**, with a growing focus on **Rust
   </a>
 
 - **Tools & Design:** <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,docker,ps,illustrator&perline=4&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=npm,git,cargo,cmake,docker,ps,illustrator&perline=10&theme=dark" />
   </a>
 
 <hr>
