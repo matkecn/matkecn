@@ -45,7 +45,7 @@ I work primarily in **Python, C and Javascript**, with a growing focus on **Rust
   </a>
 
 - **Frameworks:** <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,react,fastapi,flutter,bootstrap,nodejs&perline=6&theme=light" />
+    <img src="https://skillicons.dev/icons?i=laravel,react,numpy,pytorch,fastapi,flutter,bootstrap,nodejs&perline=6&theme=light" />
   </a>
 
 - **Databases:** <a href="https://skillicons.dev">
