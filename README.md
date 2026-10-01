@@ -49,6 +49,10 @@ I work primarily in **Python, C and Javascript**, with a growing focus on **Rust
     <img src="https://skillicons.dev/icons?i=react,fastapi,flutter,bootstrap,nodejs&perline=5&theme=dark" />
   </a>
 
+- **Databases:** <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,supabase,mariadb&perline=4&theme=dark" />
+  </a>
+
 <hr>
 
 ### Let's Connect
