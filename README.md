@@ -60,6 +60,7 @@ I work primarily in **Python, C and Javascript**, with a growing focus on **Rust
   </a></p>
 
 <hr>
+
 ### Let's Connect
 
 - 📩 **Contact me via proton mail:** [_`matija.dev@proton.me`_](mailto:matija.dev@proton.me)
