@@ -36,7 +36,6 @@ I'm **Matija**, a fullstack developer and UI/UX designer. I design and build **w
 
 My work sits where **design meets engineering**: a clean interface is only half of it, the other half is architecture that stays maintainable and code that holds up under real use. I care about both — the pixel and the process.
 
-I work primarily in **Python, C and Javascript**, with a growing focus on **Rust**, **Go** and **Swift**.
 <hr>
 
 ### **Languages:** 
