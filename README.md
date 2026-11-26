@@ -30,7 +30,7 @@
 </p>
 
 ## ⭐ About
-I'm **Matija**, a fullstack developer and UI/UX designer. I design and build **websites**, **web applications**, **backend systems**, **scripts** and **software tools**.
+I'm **Matija**, a fullstack developer, UI/UX designer and system/software engineer. I design and build **websites**, **web applications**, **backend systems**, **scripts** and **software tools**.
 
 My work sits where **design meets engineering**: a clean interface is only half of it, the other half is architecture that stays maintainable and code that holds up under real use. I care about both — the pixel and the process.
 
