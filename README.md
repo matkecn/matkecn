@@ -38,7 +38,7 @@ My work sits where **design meets engineering**: a clean interface is only half 
 
 ### **Languages:** 
 <p align="left"><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,rust,php,js,swift,lua,java,dart&perline=11&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,rust,c,php,js,swift,lua,java,dart&perline=11&theme=light" />
   </a></p>
 
 ### **Frameworks:** 
