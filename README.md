@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/Xcode-0B0F14?style=plastic&logo=xcode&logoColor=0D96F2" alt="Xcode" />
 </p>
 
----
-
 ## About
 I'm **Matija**, a fullstack developer and UI/UX designer. I design and build **websites**, **web applications**, **backend systems**, **scripts** and **software tools**.
 
